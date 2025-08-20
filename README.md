@@ -2,7 +2,10 @@
 
 **`Analista de Monitoramento`**
 
-Olá! Eu sou a Amanda e possuo mais de 9 anos de vivência em TI. 
+🎓 Formada em Sistemas de Informação
+🔍 Curiosa por novas tecnologias e soluções inovadoras
+🤖 Entusiasta de Inteligência Artificial e seu impacto no futuro
+
 
 Mãe da Olivia, casada e apaixonada por tecnologia,
 tenho desempenhado um papel fundamental na área de suporte, garantindo a integridade e eficiência dos sistemas. Atualmente, concentro meus esforços em monitoramento, utilizando minha expertise para identificar e resolver proativamente possíveis falhas e otimizar a performance dos sistemas.
