@@ -2,10 +2,12 @@
 
 **`Analista de Monitoramento`**
 
-🎓 Formada em Sistemas de Informação
-🔍 Curiosa por novas tecnologias e soluções inovadoras
-🤖 Entusiasta de Inteligência Artificial e seu impacto no futuro
+<p>🎓 Formada em Sistemas de Informação</p>
+<p>🔍 Curiosa por novas tecnologias e soluções inovadoras</p>
+<p>🤖 Entusiasta de Inteligência Artificial e seu impacto no futuro</p>
 
+</p>
+</p>
 
 Mãe da Olivia, casada e apaixonada por tecnologia,
 tenho desempenhado um papel fundamental na área de suporte, garantindo a integridade e eficiência dos sistemas. Atualmente, concentro meus esforços em monitoramento, utilizando minha expertise para identificar e resolver proativamente possíveis falhas e otimizar a performance dos sistemas.
