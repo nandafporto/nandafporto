@@ -27,6 +27,10 @@ Minhas experiências ocorreram em grandes organizações, e, por isso, possuo gr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" title="Datadog" alt="Datadog" width="30" height="30"/>
 </p>
 
+---
+
+## 🔗 Onde me encontrar
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/amandaferreiraporto)
 
 
 <!-- 
