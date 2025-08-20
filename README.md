@@ -14,66 +14,40 @@ Minhas experiências ocorreram em grandes organizações, e, por isso, possuo gr
 
 ### 💻 Linguagens e Tecnologias
 
-  <img
-      align="left
-      alt="HTML"
-      title="HTML"
-      width="30px"
-      style="padding-right: 10px;"
-      src="devicon-html5-plain-wordmark colored"
-      />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+/>
 
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+/>
 
-      <img
-      align="left
-      alt="CSS"
-      title="CSS"
-      width="30px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
-      />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+  alt="CANVA"
+  title="CANVA"
+  width="30px"
+/>
 
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+  alt="GRAFANA"
+  title="GRAFANA"
+  width="30px"
+/>
 
-  <img
-      align="left
-      alt="CANVA"
-      title="CANVA"
-      width="30px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-          
-      />     
-
-  <img
-      align="left
-      alt="GRAFANA"
-      title="GRAFANA"
-      width="30px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg" 
-      
-      />
-
-      
-  <img
-      align="left
-      alt="DATADOG"
-      title="DATADOG"
-      width="30px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg"
-      
-      />
-
-  <img
-      align="left
-      alt="PYTHON"
-      title="PYTHON"
-      width="30px"
-      style="padding-right: 10px;"
-      src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-      
-      />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+/>
 
       ---
 
